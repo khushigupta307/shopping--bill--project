@@ -1,0 +1,2 @@
+# shopping--bill--project
+A SIMPLE PYTHON BILLING SYSTEM PROJECT
